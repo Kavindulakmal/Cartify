@@ -170,7 +170,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KAVINDU/ecommerce-api.git
+git clone https://github.com/Kavindulakmal/Cartify.git
 cd ecommerce-api
 ```
 
